@@ -1,0 +1,26 @@
+# Core Data Processing
+pandas==2.0.3
+numpy==1.24.3
+
+# Data Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Database
+sqlalchemy==2.0.19
+sqlite3  # Built-in with Python, no need to install
+
+# API Calls
+requests==2.31.0
+
+# Statistical Analysis
+scipy==1.11.1
+
+# Jupyter Notebook
+jupyter==1.0.0
+ipykernel==6.25.0
+
+# Utilities
+python-dotenv==1.0.0  # For environment variables (optional)
+openpyxl==3.1.2       # For Excel file support
