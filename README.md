@@ -1,9 +1,22 @@
-# Mutual Funds Analytics Platform
+<div align="center">
 
-## Project Overview
-End-to-end data engineering and analytics platform for mutual fund data from AMFI India.
+# 🚀 Mutual Funds Analytics Platform
+### End-to-End Data Engineering, ETL Pipeline & Interactive Dashboard
 
-## Project Structure
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📖 Project Overview
+This project builds a full-stack Mutual Fund Analytics Platform for **Bluestock Fintech**. It ingests publicly available AMFI India data, transforms it through a robust Python ETL pipeline, stores it in a normalized SQLite database, and presents deep insights via a fully interactive Power BI dashboard.
+
+## 📂 Project Structure
 - `data/raw/` - Original datasets
 - `data/processed/` - Cleaned datasets
 - `notebooks/` - Jupyter notebooks for EDA and analysis
@@ -13,22 +26,12 @@ End-to-end data engineering and analytics platform for mutual fund data from AMF
 - `reports/` - Generated reports and charts
 - `db/` - SQLite database
 
-## Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
-- SQLite
-- Power BI / Tableau
-- Git & GitHub
+## 🛠️ Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy)
+- SQLite (Relational Database)
+- Power BI (Interactive Dashboard)
+- Git & GitHub (Version Control)
 
-## Setup
+## ⚙️ Setup
 ```bash
 pip install -r requirements.txt
-```
-
-## Progress
-- [x] Day 1: Data Ingestion
-- [x] Day 2: Data Cleaning + SQL Database
-- [ ] Day 3: EDA Analysis
-- [ ] Day 4: Performance Analytics
-- [ ] Day 5: Dashboard
-- [ ] Day 6: Advanced Analytics
-- [ ] Day 7: Final Report
