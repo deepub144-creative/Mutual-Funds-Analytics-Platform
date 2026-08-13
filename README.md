@@ -22,8 +22,8 @@ This project builds a full-stack Mutual Fund Analytics Platform for **Bluestock 
 - `notebooks/` - Jupyter notebooks for EDA and analysis
 - `scripts/` - Python scripts for ETL and cleaning
 - `sql/` - Database schema and queries
-- `dashboard/` - Power BI/Tableau dashboard files
-- `reports/` - Generated reports and charts
+- `dashboard/` - Power BI dashboard files
+- `reports/` - Generated reports, presentation, and dashboard screenshots
 - `db/` - SQLite database
 
 ## 🛠️ Technologies
